@@ -1,0 +1,19 @@
+QGIS version: 3.40.5-Bratislava
+QGIS code revision: 8d6d1b54486
+Qt version: 5.15.2
+Python version: 3.9.5
+GDAL version: 3.3.2
+GEOS version: 3.9.1-CAPI-1.14.2
+PROJ version: Rel. 8.1.1, September 1st, 2021
+PDAL version: 2.3.0 (git-version: Release)
+Algorithm started at: 2025-06-15T03:41:41
+Algorithm 'Buffer' starting…
+Input parameters:
+{ 'DISSOLVE' : False, 'DISTANCE' : QgsProperty.fromExpression('"buffer_m"'), 'END_CAP_STYLE' : 0, 'INPUT' : '/Users/julbs/Desktop/Again/typhoons_par.shp', 'JOIN_STYLE' : 0, 'MITER_LIMIT' : 2, 'OUTPUT' : 'TEMPORARY_OUTPUT', 'SEGMENTS' : 20, 'SEPARATE_DISJOINT' : False }
+
+Execution completed in 1.88 seconds
+Results:
+  OUTPUT: Buffered_c399aff9_34fd_4ad1_a026_27427fe8cce2
+
+Loading resulting layers
+Algorithm 'Buffer' finished

@@ -1,0 +1,247 @@
+﻿province,year,poverty
+Abra,2018,15
+Agusan Del Norte,2018,19
+Agusan Del Sur,2018,31
+Aklan,2018,9
+Albay,2018,15
+Antique,2018,13
+Apayao,2018,16
+Aurora,2018,12
+Bataan,2018,66
+Batanes,2018,6
+Batangas,2018,7
+Basilan,2018,9
+Benguet,2018,4
+Biliran,2018,14
+Bohol,2018,16
+Bukidnon,2018,22
+Bulacan,2018,4
+Cagayan,2018,13
+Camarines Norte,2018,22
+Camarines Sur,2018,21
+Camiguin,2018,18
+Capiz,2018,4
+Catanduanes,2018,14
+Cavite,2018,4
+Cebu,2018,11
+North Cotabato,2018,24
+Davao Oriental,2018,28
+Compostela,2018,19
+Davao del Norte,2018,10
+Davao Del Sur,2018,8
+Dinagat,2018,27
+Eastern Samar,2018,41
+Guimaras,2018,7
+Ifugao,2018,10
+Ilocos Norte,2018,3
+Ilocos Sur,2018,6
+Iloilo,2018,12
+Isabela,2018,13
+Kalinga,2018,9
+La Union,2018,3
+Laguna,2018,3
+Lanao Del Norte,2018,19
+Lanao Del Sur,2018,64
+Leyte,2018,22
+Maguindanao,2018,41
+Marinduque,2018,10
+Masbate,2018,26
+Metropolitan Manila,2018,1
+Misamis Occidental,2018,20
+Misamis Oriental,2018,11
+Mountain Province,2018,17
+Negros Occidental,2018,15
+Negros Oriental,2018,19
+Northern Samar,2018,28
+Nueva Ecija,2018,7
+Nueva Vizcaya,2018,12
+Mindoro Occidental,2018,16
+Mindoro Oriental,2018,7
+Palawan,2018,8
+Pampanga,2018,2
+Pangasinan,2018,9
+Quezon,2018,9
+Quirino,2018,9
+Rizal,2018,3
+Romblon,2018,20
+Samar,2018,22
+Sarangani,2018,36
+Siquijor,2018,7
+Sorsogon,2018,20
+South Cotabato,2018,14
+Southern Leyte,2018,17
+Special Geographic Area,2018,
+Sultan Kudarat,2018,24
+Sulu,2018,75
+Surigao Del Norte,2018,28
+Surigao Del Sur,2018,19
+Tarlac,2018,8
+Tawi-tawi,2018,15
+Zambales,2018,11
+Zamboanga Sibugay,2018,37
+Zamboanga Del Norte,2018,17
+Zamboanga Del Sur,2018,27
+Abra,2021,16
+Agusan Del Norte,2021,24
+Agusan Del Sur,2021,33
+Aklan,2021,14
+Albay,2021,15
+Antique,2021,18
+Apayao,2021,5
+Aurora,2021,17
+Bataan,2021,43
+Batanes,2021,9
+Batangas,2021,3
+Basilan,2021,4
+Benguet,2021,4
+Biliran,2021,20
+Bohol,2021,19
+Bukidnon,2021,23
+Bulacan,2021,8
+Cagayan,2021,7
+Camarines Norte,2021,17
+Camarines Sur,2021,30
+Camiguin,2021,15
+Capiz,2021,6
+Catanduanes,2021,17
+Cavite,2021,7
+Cebu,2021,23
+North Cotabato,2021,24
+Davao Oriental,2021,22
+Compostela,2021,18
+Davao del Norte,2021,7
+Davao Del Sur,2021,7
+Dinagat,2021,26
+Eastern Samar,2021,29
+Guimaras,2021,7
+Ifugao,2021,6
+Ilocos Norte,2021,2
+Ilocos Sur,2021,12
+Iloilo,2021,13
+Isabela,2021,16
+Kalinga,2021,6
+La Union,2021,7
+Laguna,2021,7
+Lanao Del Norte,2021,26
+Lanao Del Sur,2021,7
+Leyte,2021,21
+Maguindanao,2021,30
+Marinduque,2021,16
+Masbate,2021,20
+Metropolitan Manila,2021,2
+Misamis Occidental,2021,18
+Misamis Oriental,2021,13
+Mountain Province,2021,15
+Negros Occidental,2021,16
+Negros Oriental,2021,24
+Northern Samar,2021,19
+Nueva Ecija,2021,10
+Nueva Vizcaya,2021,11
+Mindoro Occidental,2021,23
+Mindoro Oriental,2021,13
+Palawan,2021,9
+Pampanga,2021,3
+Pangasinan,2021,14
+Quezon,2021,16
+Quirino,2021,6
+Rizal,2021,4
+Romblon,2021,31
+Samar,2021,27
+Sarangani,2021,34
+Siquijor,2021,2
+Sorsogon,2021,22
+South Cotabato,2021,13
+Southern Leyte,2021,16
+Special Geographic Area,2021,
+Sultan Kudarat,2021,24
+Sulu,2021,42
+Surigao Del Norte,2021,21
+Surigao Del Sur,2021,24
+Tarlac,2021,8
+Tawi-tawi,2021,28
+Zambales,2021,18
+Zamboanga Sibugay,2021,41
+Zamboanga Del Norte,2021,13
+Zamboanga Del Sur,2021,26
+Abra,2023,9
+Agusan Del Norte,2023,15
+Agusan Del Sur,2023,23
+Aklan,2023,3
+Albay,2023,18
+Antique,2023,14
+Apayao,2023,4
+Aurora,2023,11
+Bataan,2023,34
+Batanes,2023,7
+Batangas,2023,3
+Basilan,2023,5
+Benguet,2023,3
+Biliran,2023,9
+Bohol,2023,15
+Bukidnon,2023,20
+Bulacan,2023,6
+Cagayan,2023,6
+Camarines Norte,2023,18
+Camarines Sur,2023,22
+Camiguin,2023,9
+Capiz,2023,10
+Catanduanes,2023,24
+Cavite,2023,4
+Cebu,2023,12
+North Cotabato,2023,18
+Davao Oriental,2023,29
+Compostela,2023,7
+Davao del Norte,2023,7
+Davao Del Sur,2023,9
+Dinagat,2023,23
+Eastern Samar,2023,25
+Guimaras,2023,4
+Ifugao,2023,5
+Ilocos Norte,2023,0
+Ilocos Sur,2023,5
+Iloilo,2023,11
+Isabela,2023,8
+Kalinga,2023,3
+La Union,2023,6
+Laguna,2023,5
+Lanao Del Norte,2023,25
+Lanao Del Sur,2023,12
+Leyte,2023,21
+Maguindanao,2023,30
+Marinduque,2023,9
+Masbate,2023,13
+Metropolitan Manila,2023,1
+Misamis Occidental,2023,23
+Misamis Oriental,2023,12
+Mountain Province,2023,11
+Negros Occidental,2023,22
+Negros Oriental,2023,25
+Northern Samar,2023,22
+Nueva Ecija,2023,7
+Nueva Vizcaya,2023,7
+Mindoro Occidental,2023,21
+Mindoro Oriental,2023,14
+Palawan,2023,16
+Pampanga,2023,1
+Pangasinan,2023,11
+Quezon,2023,7
+Quirino,2023,7
+Rizal,2023,6
+Romblon,2023,23
+Samar,2023,25
+Sarangani,2023,23
+Siquijor,2023,4
+Sorsogon,2023,28
+South Cotabato,2023,10
+Southern Leyte,2023,7
+Special Geographic Area,2023,
+Sultan Kudarat,2023,26
+Sulu,2023,13
+Surigao Del Norte,2023,7
+Surigao Del Sur,2023,10
+Tarlac,2023,7
+Tawi-tawi,2023,32
+Zambales,2023,12
+Zamboanga Sibugay,2023,38
+Zamboanga Del Norte,2023,20
+Zamboanga Del Sur,2023,18

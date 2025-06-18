@@ -1,0 +1,21 @@
+QGIS version: 3.40.5-Bratislava
+QGIS code revision: 8d6d1b54486
+Qt version: 5.15.2
+Python version: 3.9.5
+GDAL version: 3.3.2
+GEOS version: 3.9.1-CAPI-1.14.2
+PROJ version: Rel. 8.1.1, September 1st, 2021
+PDAL version: 2.3.0 (git-version: Release)
+Algorithm started at: 2025-06-15T03:47:43
+Algorithm 'Intersection' starting…
+Input parameters:
+{ 'GRID_SIZE' : None, 'INPUT' : '/Users/julbs/Desktop/Again/typhoon_buffer.shp', 'INPUT_FIELDS' : [], 'OUTPUT' : 'TEMPORARY_OUTPUT', 'OVERLAY' : '/Users/julbs/Desktop/Again/ph_provinces.shp', 'OVERLAY_FIELDS' : [], 'OVERLAY_FIELDS_PREFIX' : '' }
+
+Creating spatial index
+Calculating intersection
+Execution completed in 1517.35 seconds (25 minutes 17 seconds)
+Results:
+  OUTPUT: Intersection_91545eb6_f0e7_4f78_88ee_1400112defe8
+
+Loading resulting layers
+Algorithm 'Intersection' finished

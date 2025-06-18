@@ -1,0 +1,21 @@
+QGIS version: 3.40.5-Bratislava
+QGIS code revision: 8d6d1b54486
+Qt version: 5.15.2
+Python version: 3.9.5
+GDAL version: 3.3.2
+GEOS version: 3.9.1-CAPI-1.14.2
+PROJ version: Rel. 8.1.1, September 1st, 2021
+PDAL version: 2.3.0 (git-version: Release)
+Algorithm started at: 2025-06-15T03:15:49
+Algorithm 'Intersection' starting…
+Input parameters:
+{ 'GRID_SIZE' : None, 'INPUT' : '/Users/julbs/Documents/BSE/Term 3/22N006 Econ Geog and Climate Change/PS2/Fixed/IBTrACS/IBTrACS.WP.list.v04r01.lines.shp|subset="SEASON" >= 2000 AND "SEASON" <= 2024\n', 'INPUT_FIELDS' : [], 'OUTPUT' : 'TEMPORARY_OUTPUT', 'OVERLAY' : '/Users/julbs/Documents/BSE/Term 3/22N006 Econ Geog and Climate Change/PS2/Fixed/philippineareaofresponsibility/Philippine_Area_of_Responsibility.shp', 'OVERLAY_FIELDS' : [], 'OVERLAY_FIELDS_PREFIX' : '' }
+
+Creating spatial index
+Calculating intersection
+Execution completed in 22.54 seconds
+Results:
+  OUTPUT: Intersection_666be530_e640_48fb_8aa9_771e4cf80052
+
+Loading resulting layers
+Algorithm 'Intersection' finished
