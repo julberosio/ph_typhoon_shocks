@@ -67,7 +67,8 @@ The provided code reproduces all tables and figures in the paper, except for map
 
 ### Replicating maps in QGIS
 
-Follow the instructions to replicate each map in QGIS.
+Follow the instructions to replicate each map in QGIS. Due to GitHub's 100 MB file limit, the shapefiles are hosted via [Google Drive](https://drive.google.com/drive/folders/11GgqhcmOCRf0_KXZKGaxJTAt8-RPA1fh?usp=sharing).
+
 
 | Figure # | Shapefiles | Instructions |
 |-------------------|--------------------------|----------------------------------|
