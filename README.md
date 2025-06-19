@@ -14,6 +14,16 @@ This replication package accompanies Gubbiotti, Osio and Tapia. (2025). "Estimat
 
 This paper examines the dynamic effects of typhoon shocks on local economic activity in the Philippines and investigates whether recovery trajectories differ by poverty incidence. Using a physically-simulated wind exposure index and monthly nighttime lights data from 2012 to 2024, we estimate impulse response functions via local projections. We find that poorer provinces experience sharper initial declines but exhibit faster short-run rebounds, followed by significantly weaker medium-run recoveries. These patterns are robust across alternative poverty thresholds. Our findings highlight the unequal temporal burden of climate shocks and underscore the need for sustained support to the poorest regions.
 
+JEL classification: Q54, R11, C23
+Keywords: typhoon shock, subnational economic activity, local projections
+
+## Abstract in Filipino
+
+Sinusuri ng pag-aaral na ito ang dinamikong epekto ng mga bagyo sa lokal na gawaing pang-ekonomiya sa Pilipinas, at kung paanong nagkakaiba ang pagbangon ng ekonomiya ayon sa antas ng kahirapan. Gamit ang isang physically-simulated wind exposure index at buwanang datos ng liwanag sa gabi mula 2012 hanggang 2024, tinuos namin ang mga impulse response function sa pamamagitan ng local projections. Lumalabas na mas matindi ang pagbagsak sa mga lalawigang mahihirap, bagaman mas mabilis ang panandaliang pag-angat na sinusundan ng mas mahinang pagbangon sa kalaunan. Ipinapakita ng mga resulta ang hindi pantay na epekto ng bagyo sa pagbangon ng ekonomiya.
+
+Klasipikasyon ng JEL: Q54, R11, C23
+Mga susing salita: typhoon shock, panlalawigang gawaing pang-ekonomiya, local projections
+
 # Data availability and provenance statements
 ### Statement about rights
 
@@ -42,7 +52,7 @@ All data are publicly available.
 
 # List of tables and figures
 
-The provided code reproduces all tables and figures in the paper, except for maps
+The provided code reproduces all tables and figures in the paper, except for maps.
 
 | Figure/Table #    | Program                  | Line Number | Output file                      |
 |-------------------|--------------------------|-------------|----------------------------------|
@@ -54,6 +64,17 @@ The provided code reproduces all tables and figures in the paper, except for map
 | Table 2          | code_data/04_loc_proj_robust.m      |     179        |            |
 | Table 3 | code_data/02_diagnostics.do | 37 ||
 | Table 4 | code_data/02_diagnostics.do | 42 ||
+
+### Replicating maps in QGIS
+
+Follow the instructions to replicate each map in QGIS.
+
+| Figure # | Shapefiles | Instructions |
+|-------------------|--------------------------|----------------------------------|
+| Figure 5 | shapefiles/par.shp shapefiles/typhoons_par.shp | |
+| Figure 6 | shapefiles/ph_provinces_data.shp shapefiles/typhoons_par.shp shapefiles/typhoon_buffer.shp | Symbology: Graduated final_merged_wide_exposure_2012_12. Filter "NAME" LIKE 'BOPHA' AND "SEASON" = 2012 |
+| Figure 7 | shapefiles/ph_provinces_data.shp | Symbology: Graduated final_merged_wide_mean_lights_2018_01 |
+| Figure 8 | shapefiles/ph_provinces_data.shp | Symbology: Graduated poverty_wide_poverty_2018 |
 
 # References
 
